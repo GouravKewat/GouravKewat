@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GouravKewat
 - 👀 I’m interested in learning new lenguages.
 - 🌱 I’m currently learning same amezing facts.
-- 💞️ I’m looking to collaborate on java.
+- 💞️ I’m looking to collaborate on webdev.
 - 📫 How to reach me know.
 - 🔥You are great guy bro👌
 
